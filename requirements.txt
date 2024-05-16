@@ -1,0 +1,5 @@
+torch
+numpy
+pydub
+pyyaml
+librosa
